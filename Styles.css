@@ -1,0 +1,72 @@
+p {
+  font-family: Arial;
+  padding: 20px;
+  background-color: white;
+  line-height: 1.4em;
+  
+}
+  
+  h1 {
+    color:Red;
+    background-color: white;
+    font-family: Helvetica;
+    font-size: 3em;
+}
+
+ h3 {
+    color:#FF7E6B;
+    background-color: white;
+    font-family: Helvetica;
+    font-size: 2em;
+    padding: 10px;
+	}
+
+.first {
+  font-family: Arial;
+  padding: 20px;
+  background-color: #E8D7FF;
+  line-height: 1.4em; 
+  
+}
+
+.third {
+  font-family: Arial;
+  padding: 20px;
+  line-height: 1.4em; 
+}
+
+.fourth{
+  font-family: Arial;
+  padding: 10px;
+  line-height: 1em; 
+}
+
+.fifth{
+  font-family: Arial;
+  padding: 10px;
+  line-height: 1em; 
+}
+
+.sixth {
+  font-family: Arial;
+  padding: 10px;
+  line-height: 1em;
+   background-color: white;
+}
+
+.image{
+  position: absolute;
+  right:1100px;
+  margin-top:-20px;
+  
+}
+
+.ima{
+  position: absolute;
+  right:500px;
+  margin-top: -3px;
+}
+
+
+
+	
